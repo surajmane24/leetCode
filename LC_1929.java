@@ -1,4 +1,3 @@
-
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int[] newReturn = new int[2*nums.length];
